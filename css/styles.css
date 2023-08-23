@@ -119,4 +119,10 @@ color: #1687a7;
     position: static;
     transform: rotate(0);
   }
+  .menu-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 }
